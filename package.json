@@ -14,5 +14,6 @@
 	"author": {
 		"name": "Muhammad Alfaraby"
 	},
-	"description": "this project for learning backend"
+	"description": "this project for learning backend",
+	"keywords": [ "descriptive", "related", "words" ]
 }
